@@ -12,3 +12,19 @@ Experimental results on a variety of haze images demonstrate the effectiveness a
 <p align="center">
 <img src="https://github.com/souhaiel1/Image-dehazing-with-Boundary-Constraint-and-Contextual-Regularization/blob/main//results/algo.PNG" />
 </p>
+
+## Various Results
+<p align="center">
+<img src="https://github.com/souhaiel1/Image-dehazing-with-Boundary-Constraint-and-Contextual-Regularization/blob/main//Results/res1.PNG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/souhaiel1/Image-dehazing-with-Boundary-Constraint-and-Contextual-Regularization/blob/main/portrait_transformation_video_ready.gif" width="650" height="400" />
+  
+<p align="center">
+<img src="https://github.com/souhaiel1/Image-dehazing-with-Boundary-Constraint-and-Contextual-Regularization/blob/main//Results/res2.PNG" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/souhaiel1/Image-dehazing-with-Boundary-Constraint-and-Contextual-Regularization/blob/main/transformation_video_ready.gif" width="650" height="400" />
